@@ -331,7 +331,7 @@ def callback(recognizer,audio):
 
 def start_listening():
     
-    print('Starting the bot ... \n')
+    print('Starting the Assistant ... \n')
     
     with source as s:
         r.adjust_for_ambient_noise(s,duration=2)
