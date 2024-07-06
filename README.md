@@ -1,6 +1,6 @@
 # ALICE (Artificial Intelligence for Learning, Interaction, Coordination, and Efficiency)
 
-Welcome to ALICE, your ultimate AI companion tailored for efficiency and convenience. ALICE isn't just another virtual assistant—it's a powerhouse of capabilities designed to enhance your productivity and streamline your daily tasks seamlessly.
+Welcome to ALICE, your ultimate voice-enabled AI companion tailored for efficiency and convenience. ALICE isn't just another virtual assistant—it's a powerhouse of capabilities designed to enhance your productivity and streamline your daily tasks seamlessly.
 
 ## Features
 
