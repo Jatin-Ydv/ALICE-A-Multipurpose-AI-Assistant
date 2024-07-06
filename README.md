@@ -17,7 +17,7 @@ ALICE goes beyond traditional assistants by offering screen and webcam analysis 
 Stay informed with ALICE's ability to fetch the latest news updates and weather forecasts. Whether you need a quick overview or detailed reports, ALICE delivers information tailored to your preferences and location.
 
 ### Task Management
-Organize your tasks efficiently with ALICE's comprehensive task management features. Set reminders, update schedules, retrieve task details, and delete completed tasks—all through simple voice commands or text inputs.
+Organize your tasks efficiently with ALICE's comprehensive task management features. Set reminders, update schedules, retrieve task details, and delete completed tasks—all through simple voice commands.
 
 ### Always Listening Mode
 ALICE features an innovative "always listening" mode, activated by its wake word "ALICE." Simply utter its name—"ALICE" followed by your prompt—and watch as it springs into action, ready to execute tasks and respond to commands without manual activation. This innovative feature ensures that ALICE is always ready to assist, making interaction natural and effortless.
