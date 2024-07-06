@@ -26,7 +26,7 @@ ALICE features an innovative "always listening" mode, activated by its wake word
 1. **Installation**:
    - Clone the repository:
      ```
-     git clone https://github.com/yourusername/alice.git
+     git clone https://github.com/Jatin-Ydv/ALICE-A-Multipurpose-AI-Assistant.git
      ```
    - Install dependencies:
      ```
@@ -38,7 +38,7 @@ ALICE features an innovative "always listening" mode, activated by its wake word
      ```
      python alice.py
      ```
-   - Speak the wake word "ALICE" to activate the assistant and start interacting.
+   - Speak the wake word "ALICE" followed by your prompt to activate the assistant and start interacting.
 
 ## Contributing
 
