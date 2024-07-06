@@ -36,7 +36,7 @@ ALICE features an innovative "always listening" mode, activated by its wake word
 2. **Getting Started**:
    - Start ALICE:
      ```
-     python alice.py
+     python assistant.py
      ```
    - Speak the wake word "ALICE" followed by your prompt to activate the assistant and start interacting.
 
